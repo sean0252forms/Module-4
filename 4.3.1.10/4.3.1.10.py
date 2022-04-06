@@ -1,9 +1,8 @@
-def liters_100km_to_miles_gallon(liters):
+# def liters_100km_to_miles_gallon(liters):
 #
 # Write your code here.
 #
-
-def miles_gallon_to_liters_100km(miles):
+# def miles_gallon_to_liters_100km(miles):
 #
 # Write your code here
 #
